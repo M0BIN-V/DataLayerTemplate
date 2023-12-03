@@ -1,0 +1,14 @@
+{
+  "author": "Mobin Valikhani",
+  "classifications": [ "common", "DataLib" ],
+  "name": "Data layer class library",
+  "identity": "Data.Layer.Library",
+  "groupIdentity": "Data.Layer.Library",
+  "shortName": "datalayer",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "DataLayerTemplate",
+  "preferNameDirectory": true
+}
