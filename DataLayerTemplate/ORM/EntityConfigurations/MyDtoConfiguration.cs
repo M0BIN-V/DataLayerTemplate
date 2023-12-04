@@ -4,9 +4,9 @@ using DataLayerTemplate.Entities;
 
 namespace DataLayerTemplate.ORM.EntityConfigurations;
 
-internal class ProductConfiguration : IEntityTypeConfiguration<MyEntity>
+internal class MyDtoConfiguration : IEntityTypeConfiguration<MyDto>
 {
-    public void Configure(EntityTypeBuilder<MyEntity> builder)
+    public void Configure(EntityTypeBuilder<MyDto> builder)
     {
 
     }
